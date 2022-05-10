@@ -1,4 +1,4 @@
-# AGD-Project
+# Age-Gender-Detection-Project
 ## Objective :
 To build a python project of gender and age detector that can approximately  guess the gender and age of the person in the image using OpenCV on the  Adience dataset.
 
